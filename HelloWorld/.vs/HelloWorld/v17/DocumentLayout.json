@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\NetworkP4\\Documents\\estudos\\C#\\HelloWorld\\",
+  "WorkspaceRootPath": "C:\\Users\\NetworkP4\\Documents\\estudos\\C#\\aula-csharp\\HelloWorld\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{153344D5-70B0-4C61-BA9D-F1940AA08987}|HelloWorld.csproj|c:\\users\\networkp4\\documents\\estudos\\c#\\helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{153344D5-70B0-4C61-BA9D-F1940AA08987}|HelloWorld.csproj|c:\\users\\networkp4\\documents\\estudos\\c#\\aula-csharp\\helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{153344D5-70B0-4C61-BA9D-F1940AA08987}|HelloWorld.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\NetworkP4\\Documents\\estudos\\C#\\HelloWorld\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\NetworkP4\\Documents\\estudos\\C#\\aula-csharp\\HelloWorld\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\NetworkP4\\Documents\\estudos\\C#\\HelloWorld\\Program.cs",
+              "ToolTip": "C:\\Users\\NetworkP4\\Documents\\estudos\\C#\\aula-csharp\\HelloWorld\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T19:52:45.197Z",
               "EditorCaption": ""

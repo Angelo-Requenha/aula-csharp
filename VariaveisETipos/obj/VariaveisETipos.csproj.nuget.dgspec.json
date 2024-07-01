@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NetworkP4\\Documents\\estudos\\C#\\aula-csharp\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\NetworkP4\\Documents\\estudos\\C#\\aula-csharp\\VariaveisETipos\\VariaveisETipos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NetworkP4\\Documents\\estudos\\C#\\aula-csharp\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\NetworkP4\\Documents\\estudos\\C#\\aula-csharp\\VariaveisETipos\\VariaveisETipos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NetworkP4\\Documents\\estudos\\C#\\aula-csharp\\HelloWorld\\HelloWorld.csproj",
-        "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\NetworkP4\\Documents\\estudos\\C#\\aula-csharp\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\NetworkP4\\Documents\\estudos\\C#\\aula-csharp\\VariaveisETipos\\VariaveisETipos.csproj",
+        "projectName": "VariaveisETipos",
+        "projectPath": "C:\\Users\\NetworkP4\\Documents\\estudos\\C#\\aula-csharp\\VariaveisETipos\\VariaveisETipos.csproj",
         "packagesPath": "C:\\Users\\NetworkP4\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NetworkP4\\Documents\\estudos\\C#\\aula-csharp\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\NetworkP4\\Documents\\estudos\\C#\\aula-csharp\\VariaveisETipos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

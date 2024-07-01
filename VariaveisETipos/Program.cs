@@ -1,11 +1,10 @@
-﻿namespace HelloWorld
+﻿namespace VariaveisETipos
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello, World!");
-            Console.ReadLine();
+            Console.WriteLine("Hello, World!");
         }
     }
 }
