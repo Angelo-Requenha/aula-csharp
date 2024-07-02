@@ -1,0 +1,15 @@
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EntradaDoUsuario\obj\Debug\net8.0\EntradaDoUsuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EntradaDoUsuario\obj\Debug\net8.0\EntradaDoUsuario.AssemblyInfoInputs.cache
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EntradaDoUsuario\obj\Debug\net8.0\EntradaDoUsuario.AssemblyInfo.cs
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EntradaDoUsuario\obj\Debug\net8.0\EntradaDoUsuario.csproj.CoreCompileInputs.cache
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EntradaDoUsuario\obj\Debug\net8.0\EntradaDoUsuario.sourcelink.json
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EntradaDoUsuario\bin\Debug\net8.0\EntradaDoUsuario.exe
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EntradaDoUsuario\bin\Debug\net8.0\EntradaDoUsuario.deps.json
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EntradaDoUsuario\bin\Debug\net8.0\EntradaDoUsuario.runtimeconfig.json
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EntradaDoUsuario\bin\Debug\net8.0\EntradaDoUsuario.dll
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EntradaDoUsuario\bin\Debug\net8.0\EntradaDoUsuario.pdb
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EntradaDoUsuario\obj\Debug\net8.0\EntradaDoUsuario.dll
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EntradaDoUsuario\obj\Debug\net8.0\refint\EntradaDoUsuario.dll
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EntradaDoUsuario\obj\Debug\net8.0\EntradaDoUsuario.pdb
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EntradaDoUsuario\obj\Debug\net8.0\EntradaDoUsuario.genruntimeconfig.cache
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EntradaDoUsuario\obj\Debug\net8.0\ref\EntradaDoUsuario.dll
