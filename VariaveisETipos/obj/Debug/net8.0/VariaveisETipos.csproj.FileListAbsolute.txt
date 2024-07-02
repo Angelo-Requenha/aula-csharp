@@ -1,0 +1,15 @@
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\VariaveisETipos\bin\Debug\net8.0\VariaveisETipos.exe
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\VariaveisETipos\bin\Debug\net8.0\VariaveisETipos.deps.json
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\VariaveisETipos\bin\Debug\net8.0\VariaveisETipos.runtimeconfig.json
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\VariaveisETipos\bin\Debug\net8.0\VariaveisETipos.dll
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\VariaveisETipos\bin\Debug\net8.0\VariaveisETipos.pdb
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\VariaveisETipos\obj\Debug\net8.0\VariaveisETipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\VariaveisETipos\obj\Debug\net8.0\VariaveisETipos.AssemblyInfoInputs.cache
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\VariaveisETipos\obj\Debug\net8.0\VariaveisETipos.AssemblyInfo.cs
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\VariaveisETipos\obj\Debug\net8.0\VariaveisETipos.csproj.CoreCompileInputs.cache
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\VariaveisETipos\obj\Debug\net8.0\VariaveisETipos.sourcelink.json
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\VariaveisETipos\obj\Debug\net8.0\VariaveisETipos.dll
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\VariaveisETipos\obj\Debug\net8.0\refint\VariaveisETipos.dll
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\VariaveisETipos\obj\Debug\net8.0\VariaveisETipos.pdb
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\VariaveisETipos\obj\Debug\net8.0\VariaveisETipos.genruntimeconfig.cache
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\VariaveisETipos\obj\Debug\net8.0\ref\VariaveisETipos.dll

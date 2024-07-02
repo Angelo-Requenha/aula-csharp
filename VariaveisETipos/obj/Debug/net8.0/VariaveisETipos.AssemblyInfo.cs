@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VariaveisETipos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cedc819b8c5873ac97e5c5517a372d296ad6f8e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52ba5d59588b898205c9c2955642f9f232fef708")]
 [assembly: System.Reflection.AssemblyProductAttribute("VariaveisETipos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VariaveisETipos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
