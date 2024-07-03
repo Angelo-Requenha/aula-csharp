@@ -1,0 +1,15 @@
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EnumComSwitch\bin\Debug\net8.0\EnumComSwitch.exe
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EnumComSwitch\bin\Debug\net8.0\EnumComSwitch.deps.json
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EnumComSwitch\bin\Debug\net8.0\EnumComSwitch.runtimeconfig.json
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EnumComSwitch\bin\Debug\net8.0\EnumComSwitch.dll
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EnumComSwitch\bin\Debug\net8.0\EnumComSwitch.pdb
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EnumComSwitch\obj\Debug\net8.0\EnumComSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EnumComSwitch\obj\Debug\net8.0\EnumComSwitch.AssemblyInfoInputs.cache
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EnumComSwitch\obj\Debug\net8.0\EnumComSwitch.AssemblyInfo.cs
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EnumComSwitch\obj\Debug\net8.0\EnumComSwitch.csproj.CoreCompileInputs.cache
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EnumComSwitch\obj\Debug\net8.0\EnumComSwitch.sourcelink.json
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EnumComSwitch\obj\Debug\net8.0\EnumComSwitch.dll
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EnumComSwitch\obj\Debug\net8.0\refint\EnumComSwitch.dll
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EnumComSwitch\obj\Debug\net8.0\EnumComSwitch.pdb
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EnumComSwitch\obj\Debug\net8.0\EnumComSwitch.genruntimeconfig.cache
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EnumComSwitch\obj\Debug\net8.0\ref\EnumComSwitch.dll
