@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArrayEFor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56cb68c9b00ad038d51995244898f9cc9bc546f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab8da3c0cc0fe5a350232e37b56c7f588b76331d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArrayEFor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArrayEFor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
