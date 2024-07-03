@@ -1,0 +1,15 @@
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\ArrayEFor\bin\Debug\net8.0\ArrayEFor.exe
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\ArrayEFor\bin\Debug\net8.0\ArrayEFor.deps.json
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\ArrayEFor\bin\Debug\net8.0\ArrayEFor.runtimeconfig.json
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\ArrayEFor\bin\Debug\net8.0\ArrayEFor.dll
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\ArrayEFor\bin\Debug\net8.0\ArrayEFor.pdb
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\ArrayEFor\obj\Debug\net8.0\ArrayEFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\ArrayEFor\obj\Debug\net8.0\ArrayEFor.AssemblyInfoInputs.cache
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\ArrayEFor\obj\Debug\net8.0\ArrayEFor.AssemblyInfo.cs
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\ArrayEFor\obj\Debug\net8.0\ArrayEFor.csproj.CoreCompileInputs.cache
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\ArrayEFor\obj\Debug\net8.0\ArrayEFor.sourcelink.json
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\ArrayEFor\obj\Debug\net8.0\ArrayEFor.dll
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\ArrayEFor\obj\Debug\net8.0\refint\ArrayEFor.dll
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\ArrayEFor\obj\Debug\net8.0\ArrayEFor.pdb
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\ArrayEFor\obj\Debug\net8.0\ArrayEFor.genruntimeconfig.cache
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\ArrayEFor\obj\Debug\net8.0\ref\ArrayEFor.dll
