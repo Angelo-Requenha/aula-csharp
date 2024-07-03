@@ -2,6 +2,7 @@
 {
     internal class Program
     {
+        enum Cores { Azul = 10, Verde, Vermelho, Rosa, Amarelo };
         static void Main(string[] args)
         {
             // Tipo Nome = Valor \| Não é permitido alterar o tipo de uma vareavel
@@ -16,6 +17,8 @@
                 var Nome = Valor \| Não é necessario definir o tipo
                 dynamic Nome = Valor \| Permite mudar o tipo
                 const Tipo Nome = Valor \| Valor que nunca muda
+
+                Enum nome {valores possiveis}
             */
 
             string helloWorld = "Hello, World!";
@@ -43,6 +46,10 @@
 
             mudarTipo = 14.8f;
             Console.WriteLine(mudarTipo);
+
+            Cores corFavorita = Cores.Vermelho;
+            Console.WriteLine(corFavorita);
+            Console.WriteLine((int)corFavorita);
         }
     }
 }
