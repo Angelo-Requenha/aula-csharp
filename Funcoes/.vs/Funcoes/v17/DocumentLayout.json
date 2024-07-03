@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NetworkP4\\Documents\\estudos\\C#\\aula-csharp\\Funcoes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01BDEC2F-9DA6-413F-BC75-D964F58E7451}|Funcoes.csproj|c:\\users\\networkp4\\documents\\estudos\\c#\\aula-csharp\\funcoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BDEC2F-9DA6-413F-BC75-D964F58E7451}|Funcoes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NetworkP4\\Documents\\estudos\\C#\\aula-csharp\\Funcoes\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\NetworkP4\\Documents\\estudos\\C#\\aula-csharp\\Funcoes\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T03:39:52.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
