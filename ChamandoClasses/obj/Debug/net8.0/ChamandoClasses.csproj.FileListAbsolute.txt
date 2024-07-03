@@ -1,0 +1,15 @@
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\ChamandoClasses\bin\Debug\net8.0\ChamandoClasses.exe
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\ChamandoClasses\bin\Debug\net8.0\ChamandoClasses.deps.json
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\ChamandoClasses\bin\Debug\net8.0\ChamandoClasses.runtimeconfig.json
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\ChamandoClasses\bin\Debug\net8.0\ChamandoClasses.dll
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\ChamandoClasses\bin\Debug\net8.0\ChamandoClasses.pdb
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\ChamandoClasses\obj\Debug\net8.0\ChamandoClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\ChamandoClasses\obj\Debug\net8.0\ChamandoClasses.AssemblyInfoInputs.cache
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\ChamandoClasses\obj\Debug\net8.0\ChamandoClasses.AssemblyInfo.cs
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\ChamandoClasses\obj\Debug\net8.0\ChamandoClasses.csproj.CoreCompileInputs.cache
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\ChamandoClasses\obj\Debug\net8.0\ChamandoClasses.sourcelink.json
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\ChamandoClasses\obj\Debug\net8.0\ChamandoClasses.dll
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\ChamandoClasses\obj\Debug\net8.0\refint\ChamandoClasses.dll
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\ChamandoClasses\obj\Debug\net8.0\ChamandoClasses.pdb
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\ChamandoClasses\obj\Debug\net8.0\ChamandoClasses.genruntimeconfig.cache
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\ChamandoClasses\obj\Debug\net8.0\ref\ChamandoClasses.dll
