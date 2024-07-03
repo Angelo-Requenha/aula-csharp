@@ -1,0 +1,15 @@
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EstruturaDeRepeticao\bin\Debug\net8.0\EstruturaDeRepeticao.exe
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EstruturaDeRepeticao\bin\Debug\net8.0\EstruturaDeRepeticao.deps.json
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EstruturaDeRepeticao\bin\Debug\net8.0\EstruturaDeRepeticao.runtimeconfig.json
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EstruturaDeRepeticao\bin\Debug\net8.0\EstruturaDeRepeticao.dll
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EstruturaDeRepeticao\bin\Debug\net8.0\EstruturaDeRepeticao.pdb
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EstruturaDeRepeticao\obj\Debug\net8.0\EstruturaDeRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EstruturaDeRepeticao\obj\Debug\net8.0\EstruturaDeRepeticao.AssemblyInfoInputs.cache
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EstruturaDeRepeticao\obj\Debug\net8.0\EstruturaDeRepeticao.AssemblyInfo.cs
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EstruturaDeRepeticao\obj\Debug\net8.0\EstruturaDeRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EstruturaDeRepeticao\obj\Debug\net8.0\EstruturaDeRepeticao.sourcelink.json
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EstruturaDeRepeticao\obj\Debug\net8.0\EstruturaDeRepeticao.dll
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EstruturaDeRepeticao\obj\Debug\net8.0\refint\EstruturaDeRepeticao.dll
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EstruturaDeRepeticao\obj\Debug\net8.0\EstruturaDeRepeticao.pdb
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EstruturaDeRepeticao\obj\Debug\net8.0\EstruturaDeRepeticao.genruntimeconfig.cache
+C:\Users\NetworkP4\Documents\estudos\C#\aula-csharp\EstruturaDeRepeticao\obj\Debug\net8.0\ref\EstruturaDeRepeticao.dll
